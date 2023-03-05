@@ -44,8 +44,8 @@
               {% endfor %}
 
               <!-- About -->
-              <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/' | relative_url }}">{{ about_title | title }}
+              <li class="h4 nav-item {% if page.permalink == '/' %}active{% endif %}">
+                <a class="h4 nav-link" href="{{ '/' | relative_url }}">{{ about_title | title }}
                   {%- if page.permalink == '/' -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
