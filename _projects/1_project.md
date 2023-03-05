@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Jiefeng Sun, PhD
 description: a project with a background image
 img: assets/img/prof_pic.jpg
 importance: 1
