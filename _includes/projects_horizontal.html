@@ -7,16 +7,16 @@
     <div class="card hoverable">
       <div class="row g-0">
         {%- if project.img -%}
-        <div class="card-img col-md-2">
+        <div class="card-img col-md-3">
           {% include figure.html path=project.img alt="project thumbnail" %}
         </div>
-        <div class="col-md-10">
+        <div class="col-md-9">
         {%- else -%}
         <div class="col-md-12">
         {%- endif -%}
           <div class="card-body">
             <h5 class="card-title">{{ project.title }}</h5>
-            <h6 class="card-title">{{ project.title2 }}</h6>
+            <em class="card-title">{{ project.title2 }}</em>
             <p class="card-text">{{ project.description }}</p>
             <div class="row ml-1 mr-1 p-0">
               {%- if project.github -%}
