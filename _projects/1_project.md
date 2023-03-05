@@ -2,7 +2,7 @@
 layout: page
 title: project 1
 description: a project with a background image
-img: assets/img/12.jpg
+img: assets/img/prof_pic_tall.png
 importance: 1
 redirect: false
 category: Faculty
