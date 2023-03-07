@@ -6,8 +6,8 @@ nav_order: 3
 dropdown: true
 children: 
     - title: Publications
-      permalink: /publications/
+      permalink: /Publications/
     - title: divider
     - title: Videos
-      permalink: /projects/
+      permalink: /Publications/videos/
 ---
