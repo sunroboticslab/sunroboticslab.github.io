@@ -3,7 +3,6 @@
       
 		<div class="row">
 		
-		
 			<div class="col-sm">
 				&copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}. {{ site.footer_text }}
 			</div>
@@ -29,13 +28,26 @@
     {%- else -%}
     <footer class="sticky-bottom mt-5">
       <div class="container">
-        &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}. {{ site.footer_text }}
-        {%- if site.impressum_path -%}
-        <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
-        {%- endif -%}
-        {%- if site.last_updated -%}
-        Last updated: {{ "now" | date: '%B %d, %Y' }}.
-        {%- endif %}
+  		<div class="row">
+		
+			<div class="col-sm">
+				&copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}. {{ site.footer_text }}
+			</div>
+			
+			<div class="col-sm">
+				{% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+				{%- if site.impressum_path -%}
+				<a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+				{%- endif -%}				
+			</div>
+			
+			<div class="col-sm">
+				{% include figure.html path="assets/img/5.jpg" %}								
+			{%- if site.last_updated -%}
+			Last updated: {{ "now" | date: '%B %d, %Y' }}.
+			{%- endif %}
+			</div>
+		</div>
       </div>
     </footer>
     {%- endif %}
