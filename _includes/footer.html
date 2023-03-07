@@ -16,13 +16,13 @@
 			</div>
 			
 			<div class="col-sm">
-				{% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+				{% include figure.html path="assets/img/5.jpg" %}								
+			{%- if site.last_updated -%}
+			Last updated: {{ "now" | date: '%B %d, %Y' }}.
+			{%- endif %}
 			</div>
 		</div>
-			
-        {%- if site.last_updated -%}
-        Last updated: {{ "now" | date: '%B %d, %Y' }}.
-        {%- endif %}
+
 
     </footer>
 	
