@@ -51,6 +51,7 @@
                   {%- endif -%}
                 </a>
               </li>
+			  
               {% if site.blog_nav_title %}
 
 
@@ -96,6 +97,23 @@
                   {%- endif -%}
                 </a>
               </li>
+			  
+			  			  
+			  
+			   <!-- News -->
+              <li class="h5 nav-item {% if page.url contains 'news'' %}active{% endif %}">
+                <a class="h5 nav-link" href="{{ '/news/' | relative_url }}">{{ site.news_nav_title }}
+                  {%- if page.url contains 'news' -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+			  
+			  
+			  
+			  
+			  
+			  
               {%- endif %}
 			  
 			  

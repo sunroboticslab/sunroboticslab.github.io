@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+permalink: /Publications/
 nav: True
 nav_order: 3
 dropdown: true
