@@ -167,6 +167,7 @@ blockquote {
   a {
     &:hover {
       text-decoration: none;
+      white-space: nowrap !important;    
     }
   }
   .navbar-brand {
