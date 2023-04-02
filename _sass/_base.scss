@@ -169,13 +169,14 @@ blockquote {
       text-decoration: none;
       white-space: nowrap !important;    
     }
+    font-size: 1.2rem;
   }
   .navbar-brand {
     color: var(--global-text-color);
     font-size: 1.5rem;
   }
   .navbar-nav .nav-item .nav-link {
-    font-size: 1.2rem;
+
     color: var(--global-text-color);
     &:hover {
       color: var(--global-hover-color);
@@ -257,7 +258,7 @@ blockquote {
 .social {
   text-align: center;
   .contact-icons {
-    font-size: 4rem;
+    font-size: 1.2rem;
     a {
       i::before {
         color: var(--global-text-color);
