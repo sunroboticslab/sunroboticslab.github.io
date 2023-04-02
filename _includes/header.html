@@ -18,8 +18,7 @@
               {%- endif -%}
             {%- else -%}
             <!--  {{- site.title -}}-->
-              <a href="/" class="active"> <img src="/assets/img/1.jpg" alt="Sun Group" style="width: 65px;"> 
-                
+              <a href="/" class="active"> <img src="/assets/img/1.jpg" alt="Sun Group" style="width: 65px;">                 
              </a>
 
             {%- endif -%}
@@ -48,8 +47,8 @@
               {% endfor %}
 
               <!-- About -->
-              <li class="h5 nav-item {% if page.permalink == '/' %}active{% endif %}">
-                <a class="h5 nav-link" href="{{ '/' | relative_url }}">{{ about_title | title }}
+              <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+                <a class=" nav-link" href="{{ '/' | relative_url }}">{{ about_title | title }}
                   {%- if page.permalink == '/' -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
@@ -64,8 +63,8 @@
               {%- for p in sorted_pages -%}
               {%- if p.nav and p.autogen == nil -%}
               {%- if p.dropdown %}
-              <li class="h5 nav-item dropdown {% if page.title == p.title %}active{% endif %}">
-                <a class="h5 nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ p.title }}
+              <li class=" nav-item dropdown {% if page.title == p.title %}active{% endif %}">
+                <a class=" nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ p.title }}
                   {%- if page.title == p.title -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
@@ -75,14 +74,14 @@
                   {%- if child.title == 'divider' %}
                   <div class="dropdown-divider"></div>
                   {%- else %}
-                  <a class="h5 dropdown-item" href="{{ child.permalink | relative_url }}">{{ child.title| title }}</a>
+                  <a class=" dropdown-item" href="{{ child.permalink | relative_url }}">{{ child.title| title }}</a>
                   {%- endif -%}
                   {% endfor %}
                 </div>
               </li>
               {%- else %}
-              <li class="h5 nav-item {% if page.title == p.title %}active{% endif %}">
-                <a class="h5 nav-link" href="{{ p.url | relative_url }}">{{ p.title| title }}
+              <li class="nav-item {% if page.title == p.title %}active{% endif %}">
+                <a class=" nav-link" href="{{ p.url | relative_url }}">{{ p.title| title }}
                   {%- if page.title == p.title -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
@@ -94,8 +93,8 @@
 			  
 			  
 			   <!-- Blog -->
-              <li class="h5 nav-item {% if page.url contains 'blog' %}active{% endif %}">
-                <a class="h5 nav-link" href="{{ '/blog/' | relative_url }}">{{ site.blog_nav_title | title }}
+              <li class=" nav-item {% if page.url contains 'blog' %}active{% endif %}">
+                <a class=" nav-link" href="{{ '/blog/' | relative_url }}">{{ site.blog_nav_title | title }}
                   {%- if page.url contains 'blog' -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
@@ -105,8 +104,8 @@
 			  			  
 			  
 			   <!-- News -->
-              <li class="h5 nav-item {% if page.url contains 'news'' %}active{% endif %}">
-                <a class="h5 nav-link" href="{{ '/news/' | relative_url }}">{{ site.news_nav_title }}
+              <li class=" nav-item {% if page.url contains 'news'' %}active{% endif %}">
+                <a class=" nav-link" href="{{ '/news/' | relative_url }}">{{ site.news_nav_title }}
                   {%- if page.url contains 'news' -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
