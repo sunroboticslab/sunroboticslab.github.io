@@ -10,9 +10,10 @@ email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Sun Robotics Lab at ASU
 footer_text: >
-  Sun robotics Lab. 
-  Adopted from <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  
+ <p> Sun robotics Lab </p>
+ <p>  School of Matter, Tranport, and Energy </p>
+ <p> Arizona State University </p>
+ 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -116,9 +117,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: Misc # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: al-folioal-folio # blog_name will be displayed in your blog page
+blog_nav_title: MiscMisc # your blog must have a title for it to be displayed in the nav bar
+blog_description: a simple whitespace theme for academicsa simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
 # Pagination
