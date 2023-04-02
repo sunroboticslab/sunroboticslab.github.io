@@ -10,7 +10,7 @@ email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Sun Robotics Lab at ASU
 footer_text: >
- <p> Sun robotics Lab </p>
+ <br> Sun robotics Lab </br>
  <br> School of Matter, Tranport, and Energy </br>
  <br> Arizona State University </br>
  
