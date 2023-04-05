@@ -2,15 +2,18 @@
 layout: default
 ---
 
+<a href="/" class="active"> <img src="/assets/img/cover_gif.gif" alt="Sun Group" style="width: 1000px;"> </a> 
 <!-- about.html -->
+
       <div class="post">
-        <header class="post-header">
-          <h2 class="post-title">
-           {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
+         <header class="post-header">
+        <h2 class="post-title" style="text-align:center;padding-top:2rem">
+        Mission
           </h2>
           <p class="desc">{{ page.subtitle }}</p>
-        </header>
-
+        </header>            
+        
+       
         <article>
           {% if page.profile -%}
           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
@@ -42,7 +45,7 @@ layout: default
 
           <!-- News -->
           {% if page.news -%}
-            <h3><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
+            <h3><a href="{{ '/news/' | relative_url }}" style="color: inherit;padding-top:3rem">News</a></h2>
             {%- include news.html %}
           {%- endif %}
 
