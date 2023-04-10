@@ -7,8 +7,8 @@ layout: default
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
 
-<div class="single-item">
-  <div><img src="/assets/img/1.jpg" alt="Sun Group"></div>
+<div class="single-item  center" > 
+  <div><img src="/assets/img/1.jpg" alt="Sun Group"> </div>
   <div><img src="/assets/img/4.jpg" alt="Sun Group"></div>
   <div><img src="/assets/img/3.jpg" alt="Sun Group"></div>
 </div>
@@ -18,7 +18,10 @@ layout: default
 jQuery(function($) {
     jQuery(document).ready(function(){  
        $('.single-item').slick({
-        infinite: true,
+        dots: true,
+        speed: 500,
+        autoplay: true,
+        autoplaySpeed: 5000
        });
     }); 
 });
@@ -61,13 +64,13 @@ jQuery(function($) {
           </div>
           {%- endif %}
 
-          <div class="clearfix">
+          <div class="clearfix" style="font-size: 1.1rem;">
             {{ content }}
           </div>
 
           <!-- News -->
           {% if page.news -%}
-            <h3><a href="{{ '/news/' | relative_url }}" style="color: inherit;padding-top:3rem">News</a></h2>
+            <h3><a href="{{ '/news/' | relative_url }}" style="color: inherit;padding-top:5rem">News</a></h2>
             {%- include news.html %}
           {%- endif %}
 
