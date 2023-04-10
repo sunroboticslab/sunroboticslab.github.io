@@ -1,23 +1,26 @@
 ---
 layout: default
 ---
-<link rel="stylesheet" type="text/css" href="assets/slick/slick.css"/>
-<link rel="stylesheet" type="text/css" href="assets/slick/slick-theme.css"/>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css"/>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css"/>
 
-<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
 
 <div class="single-item">
-  <div>your content</div>
-  <div>your content</div>
-  <div>your content</div>
+  <div><img src="/assets/img/1.jpg" alt="Sun Group"></div>
+  <div><img src="/assets/img/4.jpg" alt="Sun Group"></div>
+  <div><img src="/assets/img/3.jpg" alt="Sun Group"></div>
 </div>
 		
 
 <script type="text/javascript">
-$(document).ready(function(){
-    $('.single-item').slick();
+jQuery(function($) {
+    jQuery(document).ready(function(){  
+       $('.single-item').slick({
+        infinite: true,
+       });
+    }); 
 });
 </script>
 
