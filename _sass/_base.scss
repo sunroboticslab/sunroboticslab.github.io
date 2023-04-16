@@ -129,7 +129,7 @@ blockquote {
 
 .post-description {
   margin-bottom: 2rem;
-  font-size: 0.875rem;
+ 
   a {
     color: inherit;
     &:hover {
@@ -445,8 +445,13 @@ footer.sticky-bottom {
   .card {
     img {
       width: 100%;
+	  margin-bottom: 0px;
+	  margin-top: 5px;
+      margin-left: 5px;
+
     }
   }
+  
 
   .card-item {
     width: auto;
