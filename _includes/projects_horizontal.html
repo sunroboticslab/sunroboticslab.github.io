@@ -2,13 +2,15 @@
   {%- if project.redirect -%}
   <a href="{{ project.redirect }}">
   {%- else -%}
-  <a href="{{ project.url | relative_url }}">
+    {%- if project.inline -%}
+    <a href="{{ project.url | relative_url }}">
+    {%- endif -%}
   {%- endif -%}
     <div class="card hoverable">
       <div class="row g-0">
         {%- if project.img -%}
         <div class="card-img col-md-3">
-          {% include figure.html path=project.img alt="project thumbnail" %}
+          {% include figure.html path=project.img alt="project thumbnail" style="margin-left: 5px" %}
         </div>
         <div class="col-md-9">
         {%- else -%}
