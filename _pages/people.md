@@ -31,8 +31,6 @@ horizontal: false
 
   {% endfor %}
 
-
-
   <!-- Display students in grid projects -->
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>

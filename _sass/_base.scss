@@ -148,7 +148,8 @@ blockquote {
   background-color: var(--global-bg-color);
   opacity: 0.95;
   text-align: center;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
+
 }
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
@@ -176,14 +177,14 @@ blockquote {
       text-decoration: none;
       white-space: nowrap !important;    
     }
-    font-size: 1.2rem;
+    font-size: 1.3rem;
   }
   .navbar-brand {
     color: var(--global-text-color);
     font-size: 1.5rem;
   }
   .navbar-nav .nav-item .nav-link {
-    font-size: 1.2rem;
+    font-size: 1.3rem;
 
     color: var(--global-text-color);
     &:hover {
@@ -481,7 +482,7 @@ footer.sticky-bottom {
 // Publications
 
 .publications {
-  margin-top: 2rem;
+  margin-top: 1.5rem;
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
@@ -496,9 +497,9 @@ footer.sticky-bottom {
     }
   }
   h2.year {
-    color: var(--global-divider-color);
+    color: rgba(0,0,0,.4); //var(--global-divider-color); I revised this
     border-top: 1px solid var(--global-divider-color);
-    padding-top: 1rem;
+    padding-top: 0.5rem;
     margin-top: 2rem;
     margin-bottom: -2rem;
     text-align: right;
