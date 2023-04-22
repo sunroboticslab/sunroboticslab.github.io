@@ -189,6 +189,22 @@
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
+
+
+          {% if entry.news1 %}
+          News:
+          <a href="{{ entry.news1url }}"><u>{{entry.news1}}</u></a>
+          {% endif %}
+          
+          {% if entry.news2 %}
+          <a href="{{ entry.news2url }}"><u>{{entry.news2}}</u></a>
+          {% endif %}
+          
+          {% if entry.news3 %}
+          <a href="{{ entry.news3url }}"><u>{{entry.news3}}</u></a>
+          {% endif %}
+          
+
           </div>
           {% if site.badges %}
           <div class="badges">
