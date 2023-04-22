@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 
+---
+#### PhD and Master students:
 
 We have two fully supported PhD openings and partially funded master openings. More details please see the [pdf]({{site.baseurl}}/assets/pdf/PhD_opening_ASU_Sun_Robotics_Lab.pdf). 
 
@@ -28,6 +30,14 @@ To apply, interested candidates should submit an application to Arizona State Un
 
 We acknowledge that maintaining an __inclusive environment__ requires ongoing and active effort, and we are dedicated to continually learning and improving our support for diversity and inclusion. We value the experiences and perspectives of all members of our community and believe that a diverse and inclusive culture is crucial for fostering excellence in research and achieving our goals
 
+---
+
+#### Undergraduate students:
+
+We welcome undergraduate students who are interested in gaining research experience in the areas of robot design, microcontrollers, mechanics, and control. Due to the significant amount of training required, we prefer students who are interested in longer term (one year or more) research projects.
+ASU undergraduate students are encouraged to email your interest and experience directly to Prof. Sun.
+
+---
 
 #### Q & A
 
