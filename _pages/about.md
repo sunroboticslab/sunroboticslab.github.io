@@ -17,12 +17,10 @@ social: false  # includes social icons at the bottom of the page
 		
 
 <header class="post-header">
-    <h2 class="post-title" style="text-align:center;padding-top:2rem">
+    <h2 class="post-title" style="text-align:center;padding-top:1.5rem">
     Mission
     </h2>
 </header>            
-        
-
 
 The mission of Sun robotics lab at ASU is to advance science and technology in robotics for addressing grand societal challenges in manufacturing, daily life, and health care. We are a highly interdisciplinary research group with expertise in design, modeling, and control. A major focus of our current research is the study and development of soft actuators and systems (muscle and body) to better inteegrate with computational intelligence (brain). 
 
