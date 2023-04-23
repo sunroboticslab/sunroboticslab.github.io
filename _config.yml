@@ -6,7 +6,7 @@ title: Sun Robotics Lab # the website title (if blank, full name will be used in
 first_name: 
 middle_name: 
 last_name: 
-email: you@example.com
+email: jiefeng.sun@asu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Sun Robotics Lab at ASU
 footer_text: >
@@ -14,7 +14,7 @@ footer_text: >
  <br> School of Matter, Tranport, and Energy </br>
  <br> Arizona State University </br>
  
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+# keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🌞  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -42,7 +42,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -119,7 +119,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Sun Lab Posts # blog_name will be displayed in your blog page
-blog_nav_title: Misc # your blog must have a title for it to be displayed in the nav bar
+blog_nav_title: Posts # your blog must have a title for it to be displayed in the nav bar
 blog_description: 
 permalink: /blog/:year/:title/
 
