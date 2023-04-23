@@ -32,8 +32,8 @@ $white-color: #ffffff !default;
 $black-color: #000000 !default;
 $ASU-Maroon: #8C1D40;
 $ASU-Gold: #FFC627;
-
-
+$ASU-Maroon-light: lighten($ASU-Maroon, 20%);
+$ASU-Gold-light: lighten($ASU-Gold, 20%);
 
 // Theme colors
 

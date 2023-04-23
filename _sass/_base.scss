@@ -67,6 +67,9 @@ blockquote {
 }
 
 // Card
+slid_img {
+  height: 25rem 
+}
 
 .card {
   background-color: var(--global-card-bg-color);
@@ -305,9 +308,10 @@ footer.fixed-bottom {
 }
 
 footer.sticky-bottom {
+  background-color: var(--global-footer-bg-color);
   border-top: 1px solid var(--global-divider-color);
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 20px;
+  padding-bottom: 5px;
   font-size: 0.9rem;
 }
 
