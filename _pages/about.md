@@ -9,9 +9,9 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 <div class="single-item  center" > 
-    <div class="slid_img"><img src="/assets/img/conical_TCAs_16x9.gif" alt="Sun Group" class="img-fluid rounded"  style="height:25rem; display:block; margin:auto;"> </div>
-    <div class="slid_img"><img src="/assets/img/soft_arm.png" alt="Sun Group" class="img-fluid rounded"  style="height:25rem;display:block; margin:auto;"></div>
-    <div class="slid_img"><img src="/assets/img/1.jpg" alt="Sun Group" class="img-fluid rounded" style="height:25rem;display:block; margin:auto;"></div>
+    <div class="slid_img"><img src="assets/img/conical_TCAs_16x9.gif" alt="Sun Group" class="img-fluid rounded"  style="height:25rem; display:block; margin:auto;"> </div>
+    <div class="slid_img"><img src="assets/img/soft_arm.png" alt="Sun Group" class="img-fluid rounded"  style="height:25rem;display:block; margin:auto;"></div>
+    <div class="slid_img"><img src="assets/img/1.jpg" alt="Sun Group" class="img-fluid rounded" style="height:25rem;display:block; margin:auto;"></div>
  
 </div>
 		
