@@ -9,9 +9,15 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 <div class="single-item  center" > 
-    <div class="slid_img"><img src="assets/img/conical_TCAs_16x9.gif" alt="Sun Group" class="img-fluid rounded"  style="height:25rem; display:block; margin:auto;"> <div class="caption">  <a href="https://jiefengsun.github.io/tca-tro.html"> Physics-based simulation of Twisted and coild actuator </a> </div></div>
-    <div class="slid_img"><img src="assets/img/soft_arm.png" alt="Sun Group" class="img-fluid rounded"  style="height:25rem;display:block; margin:auto;"><div class="caption">  <a href="https://jiefengsun.github.io/tca-tro.html"> Soft robotics arm driven by Twisted-and-Coiled actuators </a>  </div></div>
-    <div class="slid_img"><img src="assets/img/1.jpg" alt="Sun Group" class="img-fluid rounded" style="height:25rem;display:block; margin:auto;"> <div class="caption"> <a href=""> Shape-morphing multi-gait robot driven by Twisted-and-Coiled actuators. </a>   </div></div> 
+    <div class="slid_img"><img src="assets/img/soft_skills.gif" alt="Soft Skill" class="img-fluid rounded" style="height:25rem;display:block; margin:auto;"> <div class="caption"> <a href=""> Autonomous perching with embedded intelligence. </a>   </div></div> 
+
+    <div class="slid_img"><img src="assets/img/soft_arm.gif" alt="Robot Arm" class="img-fluid rounded"  style="height:25rem;display:block; margin:auto;"><div class="caption">  <a href="https://jiefengsun.github.io/tca-tro.html"> Soft robotics arm driven by Twisted-and-Coiled actuators </a>  </div></div>
+
+    <div class="slid_img"><img src="assets/img/conical_TCAs_16x9.gif" alt="TCA simulation" class="img-fluid rounded"  style="height:25rem; display:block; margin:auto;"> <div class="caption">  <a href="https://jiefengsun.github.io/tca-tro.html"> Physics-based simulation of Twisted and coild actuator </a> </div></div>
+
+    <div class="slid_img"><img src="assets/img/simulation_trimmed.gif" alt="Robot Arm Simulation" class="img-fluid rounded" style="height:25rem;display:block; margin:auto;"> <div class="caption"> <a href=""> Simulation of the soft robotics arm. </a>   </div></div> 
+
+    <div class="slid_img"><img src="assets/img/simulation_trimmed.gif" alt="Robot Arm Simulation" class="img-fluid rounded" style="height:25rem;display:block; margin:auto;"> <div class="caption"> <a href=""> Autonomous perching with embedded intelligence. </a>   </div></div> 
 </div>
 
 
