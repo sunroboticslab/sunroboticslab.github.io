@@ -147,15 +147,16 @@ slid_img {
 
 .navbar {
   box-shadow: none;
-  border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
-  opacity: 0.95;
+ // border-bottom: 1px solid var(--global-divider-color);
+  background-color: var(--global-header-bg-color);
+  opacity: 1;
   font-size: 1.2rem;
+  //color: var(--global-bg-color); // change to white  
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
 .navbar .dropdown-menu {
-  background-color: var(--global-bg-color);
+  background-color: var(--global-header-bg-color);
   border: 1px solid var(--global-divider-color);
   a:not(.active) {
     color: var(--global-text-color);
@@ -171,7 +172,7 @@ slid_img {
   color: var(--global-text-color);
     &:hover {
       color: var(--global-hover-color);
-      background-color: var(--global-bg-color);
+      background-color: var(--global-header-bg-color);
     }
 }
 .navbar.navbar-light {
