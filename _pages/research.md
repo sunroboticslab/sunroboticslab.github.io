@@ -21,5 +21,3 @@ Here are our research directions
 4. Modeling and control 
  - Design, modeling, and control of artificial muscle for robotic applications
  - Machine-learning-based modeling and control
-
-
