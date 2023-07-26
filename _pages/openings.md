@@ -25,7 +25,7 @@ Project 2: Artificial-muscle-driven robots
 3. Preferred skills: Microcontrollers (Arduino/Raspberry PI), SolidWorks, Linux, and ROS. 
 
 ##### How to apply:
-To apply, interested candidates should submit an application to Arizona State University via [https://webapp4.asu.edu/dgsadmissions/](https://webapp4.asu.edu/dgsadmissions/), specifying their interest in working with Prof. Sun. Additionally, they should send an email titled "Prospective Ph.D. Student" or "Prospective Master Student" to thesunroboticslab@gmail.com, attaching their CV and a cover letter before submitting their application. 
+To apply, interested candidates should submit an application to Arizona State University via [https://webapp4.asu.edu/dgsadmissions/](https://webapp4.asu.edu/dgsadmissions/), specifying their interest in working with Prof. Sun. Additionally, they should send an email titled "Prospective Ph.D. Student" or "Prospective Master Student" to the jiefeng.sun@asu.edu, attaching their CV and a cover letter before submitting their application. 
 
 
 We acknowledge that maintaining an __inclusive environment__ requires ongoing and active effort, and we are dedicated to continually learning and improving our support for diversity and inclusion. We value the experiences and perspectives of all members of our community and believe that a diverse and inclusive culture is crucial for fostering excellence in research and achieving our goals
