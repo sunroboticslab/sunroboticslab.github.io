@@ -27,6 +27,12 @@ Project 2: Artificial-muscle-driven robots
 ##### How to apply:
 To apply, interested candidates should submit an application to Arizona State University via [https://webapp4.asu.edu/dgsadmissions/](https://webapp4.asu.edu/dgsadmissions/), specifying their interest in working with Prof. Sun. Additionally, they should send an email titled "Prospective Ph.D. Student" or "Prospective Master Student" to the jiefeng.sun@asu.edu, attaching their CV and a cover letter before submitting their application. 
 
+##### Useful Links:
+MS in ME: [https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESMEMS/mechanical-engineering-ms](https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESMEMS/mechanical-engineering-ms)
+MS in Robotics: [https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESRASMAEMS/robotics-and-autonomous-systems-mechanical-and-aerospace-engineering-ms](https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESRASMAEMS/robotics-and-autonomous-systems-mechanical-and-aerospace-engineering-ms)
+PhD in ME: [https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESMEPHD/mechanical-engineering-phd](https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESMEPHD/mechanical-engineering-phd)
+
+
 
 We acknowledge that maintaining an __inclusive environment__ requires ongoing and active effort, and we are dedicated to continually learning and improving our support for diversity and inclusion. We value the experiences and perspectives of all members of our community and believe that a diverse and inclusive culture is crucial for fostering excellence in research and achieving our goals
 
