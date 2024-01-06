@@ -93,6 +93,19 @@ slid_img {
   }
 }
 
+.circular {
+  border-radius: 50%; /* Sets the border-radius to 50% for a circular shape */
+  /* Add other styles as needed */
+
+}
+
+
+.centered-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto !important;
+  max-width: 70%; /* Set the maximum width to 70% */
+}
 // Citation
 
 .citation, .citation-number {
@@ -452,8 +465,7 @@ footer.sticky-bottom {
     img {
       // width: 100%;	    
 	    margin-top: 5px;
-      margin-right: 5px;
-
+      margin-right: 10px;
     }
   }
   
@@ -469,8 +481,9 @@ footer.sticky-bottom {
   }
 
   .grid-sizer, .grid-item {
-    width: 250px;
+    width: 240px;
     margin-bottom: 10px;
+    margin-right: 10px;
   }
 
   h2.category {
