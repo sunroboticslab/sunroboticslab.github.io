@@ -8,6 +8,22 @@ nav_order: 6
 ---
 
 ---
+#### Summer Research Initiative 2024 (SURI) program
+
+The Ira A. Fulton Schools of Engineering at Arizona State University offers summer opportunities for qualified students to gain engineering research experience at a top research university. Participants acquire an in-depth understanding of what it would be like to pursue a doctoral degree through a full-time (30 to 40 hours/week) eight-week summer research program.
+
+Eligible U.S. citizens, permanent residents, ASU-sponsored F-1/J-1 visa students and international applicants receive **a $5,000 stipend**, housing and some living expenses. Research projects across a wide range of engineering fields are available.
+
+Students between the junior and senior years of their undergraduate degree and those pursuing master’s degrees who are considering pursuing a doctorate will be given highest consideration. Participants work under the mentorship of research faculty for the eight-week long research program and have opportunities to network with industry partners, other faculty and their peers through a variety of events and activities.
+
+Tentative program dates for summer 2024 are May 28 to July 19 and subject to change.
+
+**Our lab will hire two students** please find [detailed project info here](https://arizonastateu-my.sharepoint.com/:w:/g/personal/jsun165_asurite_asu_edu/Ebw2ZPCLHXxCpPaO5GEaK3cBVOC_rpbjRCvQf8naAkY52Q?e=5g3UAz)
+
+Please refer to the link to apply: [https://students.engineering.asu.edu/graduate/research/suri/](https://students.engineering.asu.edu/graduate/research/suri/)
+
+---
+
 #### PhD and Master students:
 
 We have two fully supported PhD openings and partially funded master openings. More details please see the [pdf]({{site.baseurl}}/assets/pdf/PhD_opening_ASU_Sun_Robotics_Lab.pdf).
