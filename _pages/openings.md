@@ -35,7 +35,7 @@ We usually have several rounds of interviews. Please refer to the [post: student
 
 I am seeking multiple highly motivated Master students or undergrads to conduct theses in artificial muscle and soft robotics, starting in Summer 2024. 
 
-__Projects__\\
+__Topics__\\
 __1. Design of Novel Dielectric Fluid Artificial Muscle__\\
 In this project, you will develop a novel artificial muscle, characterize its performance, and simulate it with physics-based simulators. Preferred skills: knowledge and hands-on experience in materials, mechanical design, and fabrication. 
 
