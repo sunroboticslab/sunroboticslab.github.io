@@ -5,3 +5,4 @@
 3. change the style of the publication and add teh video functions
 4. for the news Entries in the 
 5. Added CNMAE file. 
+6. This site only works with v0.9. I have downloaded the specific docker image. 
