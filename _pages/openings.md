@@ -2,7 +2,6 @@
 layout: page
 permalink: /join/
 title: Join
-#description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
@@ -19,10 +18,37 @@ We are looking for highly motivated students to join our lab.
 ##### How to apply:
 To apply, interested candidates should submit an application to Arizona State University via [https://webapp4.asu.edu/dgsadmissions/](https://webapp4.asu.edu/dgsadmissions/), specifying their interest in working with Dr. Sun. Additionally, they should send an email titled "Prospective Ph.D. Student" or "Prospective Master Student" to jiefeng.sun@asu.edu, attaching their CV and a cover letter before submitting their application.
 
-
-
-##### Interviews
 We usually have several rounds of interviews. Please refer to the [post: student admission process]({% post_url 2023-09-05-student-admission %})
+
+
+---
+#### Undergraduate students:
+
+We welcome undergraduate students who are interested in gaining research experience in the areas of robot design, microcontrollers, mechanics, and control. Due to the significant amount of training required, we prefer students who are interested in longer-term (one year or more) research projects.
+ASU undergraduate students are encouraged to email your interest and experience directly to Dr. Sun.
+
+We do not generally fund undergrad research, but I would support you to apply for many grants and fellowships e.g., [SURI](https://students.engineering.asu.edu/graduate/research/suri/), [Nasa Space Grant](https://nasa.asu.edu/node), and [GCSP](https://gcsp.engineering.asu.edu/). 
+
+
+##### ___Barrett Honors Thesis___
+Dr. Sun has availability to serve on Barrett Thesis committees, provided the student is willing to commit to submitting their work to a conference or journal at the end of their project.
+
+For more information, see https://barretthonors.asu.edu/academics/thesis-and-creative-project/
+
+
+__Topics__\\
+__1. Design of Novel Dielectric Fluid Artificial Muscle__\\
+In this project, you will develop a novel artificial muscle, characterize its performance, and simulate it with physics-based simulators. Preferred skills: knowledge and hands-on experience in materials, mechanical design, and fabrication. 
+
+**2. Real-time Control of Continuum Soft Robots with Learning to Solve Physics-based Models (With Prof. Max Ren). Fullfilled**\\
+In this project, you will develop machine learning methods to solve physics-based models for controlling a continuum soft robotic arm in real time. The preferred skills are machine learning, modern control, and strong coding capability. 
+
+__3. Fast Simulation of Soft Robots with Physics-based simulators.__ \\
+In this project, you will simulate soft robots with physics-based simulators. Students who are from computer science and know numerical solvers and computer graphics (Animation and Simulation) are highly preferred. 
+
+__4. Wearable Robots Driven by Artificial Muscles for Human Assistance and Rehabilitation (with Prof. Hyunglae Lee).__\\
+In this project will design a novel artificial muscle and build a wearable robotic device for back support. The preferred skills include hands-on experience in mechatronics (circuits), mechanical design, and fabrication.
+
 
 
 ---
@@ -35,27 +61,15 @@ We usually have several rounds of interviews. Please refer to the [post: student
 
 I am seeking multiple highly motivated Master students or undergrads to conduct theses in artificial muscle and soft robotics, starting in Summer 2024. 
 
-__Topics__\\
-__1. Design of Novel Dielectric Fluid Artificial Muscle__\\
-In this project, you will develop a novel artificial muscle, characterize its performance, and simulate it with physics-based simulators. Preferred skills: knowledge and hands-on experience in materials, mechanical design, and fabrication. 
-
-**2. Real-time Control of Continuum Soft Robots with Learning to Solve Physics-based Models (With Prof. Max Ren).**\\
-In this project, you will develop machine learning methods to solve physics-based models for controlling a continuum soft robotic arm in real time. The preferred skills are machine learning, modern control, and strong coding capability. 
-
-__3. Fast Simulation of Soft Robots with Physics-based simulators.__ \\
-In this project, you will simulate soft robots with physics-based simulators. Students who are from computer science and know numerical solvers and computer graphics (Animation and Simulation) are highly preferred. 
-
-__4. Wearable Robots Driven by Artificial Muscles for Human Assistance and Rehabilitation (with Prof. Hyunglae Lee).__\\
-In this project will design a novel artificial muscle and build a wearable robotic device for back support. The preferred skills include hands-on experience in mechatronics (circuits), mechanical design, and fabrication. 
-
-
 To apply, interested candidates should send an email titled "Prospective Master Student for Thesis" to jiefeng.sun@asu.edu, attaching their CV, transcript, and a cover letter. 
 
-Undergrads from the Honor’s College who are doing a thesis are welcome to work on these projects as well. 
+
 
 
 ##### Masters Project
 Due to time limitations, Dr. Sun is **not able to** advise Masters Projects at this time. Please consider a Masters Thesis, as the opportunities for producing high-quality, publishable work is enhanced via the thesis route.
+
+
 
 ##### Funding for master students
 We do not generally fund masters research.  
@@ -70,20 +84,7 @@ Eligible U.S. citizens, permanent residents, ASU-sponsored F-1/J-1 visa students
 
 ---
 
-#### Undergraduate students:
 
-We welcome undergraduate students who are interested in gaining research experience in the areas of robot design, microcontrollers, mechanics, and control. Due to the significant amount of training required, we prefer students who are interested in longer-term (one year or more) research projects.
-ASU undergraduate students are encouraged to email your interest and experience directly to Dr. Sun.
-
-We do not generally fund undergrad research, but I would support you to apply for many grants and fellowships e.g., [SURI](https://students.engineering.asu.edu/graduate/research/suri/), [Nasa Space Grant](https://nasa.asu.edu/node), and [GCSP](https://gcsp.engineering.asu.edu/). 
-
-
-##### Barrett Honors Thesis
-Dr. Sun has availability to serve on Barrett Thesis committees, provided the student is willing to commit to submitting their work to a conference or journal at the end of their project.
-
-For more information, see https://barretthonors.asu.edu/academics/thesis-and-creative-project/
-
----
 
 #### Q & A
 
