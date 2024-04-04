@@ -6,3 +6,4 @@
 4. for the news Entries in the 
 5. Added CNMAE file. 
 6. This site only works with v0.9. I have downloaded the specific docker image. 
+7. Revised people card width in line 483.  .grid-sizer, .grid-item { width: 220px;
