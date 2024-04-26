@@ -5,6 +5,7 @@ title: Join
 nav: true
 nav_order: 6
 ---
+Welcome!
 
 We acknowledge that maintaining an __inclusive environment__ requires ongoing and active effort, and we are dedicated to continually learning and improving our support for diversity and inclusion. We value the experiences and perspectives of all members of our community and believe that a diverse and inclusive culture is crucial for fostering excellence in research and achieving our goals
 
