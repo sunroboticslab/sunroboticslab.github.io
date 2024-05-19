@@ -2,9 +2,9 @@
 layout: page
 title: Erick Weissman
 title2: 
-description: Master, ME, Fall 2024
+description: Master (4+1), ME, MORE
 img: assets/img/headshots/eric_weissman.jpg
-importance: 3
+importance: 4
 category: Graduate Students
 ---
 

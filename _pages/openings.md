@@ -60,11 +60,12 @@ In this project will design a novel artificial muscle and build a wearable robot
 
 ##### Masters Thesis
 
-I am seeking multiple highly motivated Master students or undergrads to conduct theses in artificial muscle and soft robotics, starting in Summer 2024. 
+I am seeking multiple highly motivated Master students or undergrads to conduct theses in artificial muscle and soft robotics, starting in Summer/Fall 2024. 
 
 To apply, interested candidates should send an email titled "Prospective Master Student for Thesis" to jiefeng.sun@asu.edu, attaching their CV, transcript, and a cover letter. 
 
 
+__I am hiring multiple students to work on underwater robot/ROV robot__\\
 
 
 ##### Masters Project
