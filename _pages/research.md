@@ -16,6 +16,7 @@ Here are our research directions
 
 3. Artificial-muscle-driven robots
  - Soft robots
+ - Wearable robotics
  - Shape-morphing robots (Robots that change their configurations/properties for different functionalities).
 
 4. Modeling and control 

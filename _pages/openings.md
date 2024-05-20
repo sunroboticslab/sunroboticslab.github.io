@@ -23,12 +23,28 @@ We usually have several rounds of interviews. Please refer to the [post: student
 
 
 ---
+
+#### Master students:
+
+
+##### Masters Thesis
+
+I am seeking multiple highly motivated Master students or undergrads to conduct theses in artificial muscle and soft robotics, starting in Summer/Fall 2024. 
+
+To apply, interested candidates should send an email titled "Prospective Master Student for Thesis" to jiefeng.sun@asu.edu, attaching their CV, transcript, and a cover letter. 
+
+
+__I am hiring multiple students to work on underwater robot/ROV robot__
+
+
+##### Masters Project
+Due to time limitations, Dr. Sun is **not able to** advise Masters Projects at this time. Please consider a Masters Thesis, as the opportunities for producing high-quality, publishable work is enhanced via the thesis route.
+
+---
 #### Undergraduate students:
 
 We welcome undergraduate students who are interested in gaining research experience in the areas of robot design, microcontrollers, mechanics, and control. Due to the significant amount of training required, we prefer students who are interested in longer-term (one year or more) research projects.
 ASU undergraduate students are encouraged to email your interest and experience directly to Dr. Sun.
-
-We do not generally fund undergrad research, but I would support you to apply for many grants and fellowships e.g., [SURI](https://students.engineering.asu.edu/graduate/research/suri/), [Nasa Space Grant](https://nasa.asu.edu/node), and [GCSP](https://gcsp.engineering.asu.edu/). 
 
 
 ##### ___Barrett Honors Thesis___
@@ -54,36 +70,21 @@ In this project will design a novel artificial muscle and build a wearable robot
 
 ---
 
+##### Funding for Master and Undergrad students
 
-#### Master students:
+Students who are doing thesis with me will have my full support to get funding from the following programs and hourly-payed grader positions.
 
+[Hourly-payed grader](https://english.asu.edu/admission/graduate-admission/teaching-assistantships/gradership)
+I am teaching a class every semester. Students who are doing research in my lab usually get the grader position ($15 - $16 per hour). 
 
-##### Masters Thesis
+[MORE (for master students)](https://students.engineering.asu.edu/graduate/research/more/)
+The MORE Initiative is a unique opportunity to get involved in research during your masters experience. Please see Dr. Sun at the beginning of the semester in order to plan your MORE application. Deadline is middle of March and Oct each year. 
 
-I am seeking multiple highly motivated Master students or undergrads to conduct theses in artificial muscle and soft robotics, starting in Summer/Fall 2024. 
+[FURI (for undergrads)](https://students.engineering.asu.edu/furi/)
+The FURI Initiative is a unique opportunity to get involved in research during your undergrad experience. Please see Dr. Sun at the beginning of the semester in order to plan your FURI application. Deadline is middle of March and Oct each year. 
 
-To apply, interested candidates should send an email titled "Prospective Master Student for Thesis" to jiefeng.sun@asu.edu, attaching their CV, transcript, and a cover letter. 
-
-
-__I am hiring multiple students to work on underwater robot/ROV robot__\\
-
-
-##### Masters Project
-Due to time limitations, Dr. Sun is **not able to** advise Masters Projects at this time. Please consider a Masters Thesis, as the opportunities for producing high-quality, publishable work is enhanced via the thesis route.
-
-
-
-##### Funding for master students
-We do not generally fund masters research.  
-
-Students who are doing thesis with me will have my full suppor to get funding from the follwing programs and hourly-paied grader positions.  
-
-[__MORE__](https://students.engineering.asu.edu/graduate/research/more/)
-The MORE Initiative is a unique opportunity to get involved in research during your masters experience. In general, planning for your application involves identifying a research topic of interest, speaking with Dr. Sun to ensure it fits within the scope of the IDEAlab, and coming up with the deliverables required by the FURI program. Please see Dr. Sun at the beginning of the semester in order to plan your MORE application. Deadline is middle of March and Oct each year. 
-
-[__SURI__](https://students.engineering.asu.edu/graduate/research/suri/)
-Eligible U.S. citizens, permanent residents, ASU-sponsored F-1/J-1 visa students and international applicants receive **a $5,000 stipend**, housing and some living expenses during the summer each year. Deadline is Feb. 1st.
-
+[SURI](https://students.engineering.asu.edu/graduate/research/suri/)
+The student will receive **a $5,000 stipend**, housing and some living expenses during the summer each year. Deadline is Feb. 1st. I will  prioritize sudents who have already worked with me or potential PhD students. 
 ---
 
 
