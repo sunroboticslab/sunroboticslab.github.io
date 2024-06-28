@@ -6,7 +6,7 @@ description: .
 nav: true
 nav_order: 2
 faculty_category: [Faculty]
-display_categories: [Graduate Students, Undergraduate]
+display_categories: [Graduate Students, Undergraduate, Alumni]
 horizontal: false
 ---
 

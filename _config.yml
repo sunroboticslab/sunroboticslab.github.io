@@ -2,15 +2,15 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Sun Robotics Lab # the website title (if blank, full name will be used instead)
+title: Robotic Actuators & Dynamics Lab # the website title (if blank, full name will be used instead)
 first_name: 
 middle_name: 
 last_name: 
 email: jiefeng.sun@asu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Sun Robotics Lab at ASU
+  Robotic Actuators & Dynamics Lab at ASU
 footer_text: >
- <br> Sun robotics Lab </br>
+ <br> Robotic Actuators & Dynamics Lab </br>
  <br> School of Matter, Tranport, and Energy </br>
  <br> Arizona State University </br>
  
@@ -102,6 +102,8 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
   <i class="fas fa-envelope"></i> jiefeng.sun@asu.edu
+  <br> Office: ERC 487 </br>
+  <br> Lab: ECE 106 </br>
 
 
 # -----------------------------------------------------------------------------
