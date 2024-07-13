@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /join/
-title: Join
+permalink: /Openings/
+title: Openings
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 Welcome!
 
@@ -31,14 +31,11 @@ We usually have several rounds of interviews. Please refer to the [post: student
 
 I am seeking multiple highly motivated Master students or undergrads to conduct theses in artificial muscle and soft robotics, starting in Summer/Fall 2024. 
 
-To apply, interested candidates should send an email titled "Prospective Master Student for Thesis" to jiefeng.sun@asu.edu, attaching their CV, transcript, and a cover letter. 
+To apply, interested candidates should send an email titled "Prospective Master Student for Thesis" to jiefeng.sun@asu.edu, attaching their CV, transcript, and a cover letter. Due to time limitations, Dr. Sun is **not able to** advise Masters Projects at this time. Please consider a Masters Thesis, as the opportunities for producing high-quality, publishable work is enhanced via the thesis route.
 
 
-__I am hiring multiple students to work on underwater robot/ROV robot__
+__I am hiring multiple students to work on underwater robot and quarduped robots__
 
-
-##### Masters Project
-Due to time limitations, Dr. Sun is **not able to** advise Masters Projects at this time. Please consider a Masters Thesis, as the opportunities for producing high-quality, publishable work is enhanced via the thesis route.
 
 ---
 #### Undergraduate students:
@@ -72,7 +69,7 @@ In this project will design a novel artificial muscle and build a wearable robot
 
 ##### Funding for Master and Undergrad students
 
-Students who are doing thesis with me will have my full support to get funding from the following programs and hourly-payed grader positions.
+Students who are doing thesis with me will have my full support to get funding from the following programs:
 
 [Hourly-payed grader](https://english.asu.edu/admission/graduate-admission/teaching-assistantships/gradership)
 I am teaching a class every semester. Students who are doing research in my lab usually get the grader position ($15 - $16 per hour). 
@@ -85,6 +82,9 @@ The FURI Initiative is a unique opportunity to get involved in research during y
 
 [SURI](https://students.engineering.asu.edu/graduate/research/suri/)
 The student will receive **a $5,000 stipend**, housing and some living expenses during the summer each year. Deadline is Feb. 1st. I will  prioritize sudents who have already worked with me or potential PhD students. 
+
+Hourly-payed RA: We will provide hourly-paied positions for students who have been in the lab for a while (>3 months) and perform great. 
+
 ---
 
 

@@ -7,7 +7,8 @@ nav: true
 nav_order: 5
 ---
 
-#### Spring 2024
+#### Spring 2024, Fall 2024
+
 
 **MAE 318: System Dynamics and Control I**
 

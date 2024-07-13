@@ -8,4 +8,5 @@
 6. This site only works with v0.9. I have downloaded the specific docker image. 
 7. Revised people card width in line 483.  .grid-sizer, .grid-item { width: 220px;
 8. Somehow the auto generation is down. Solution: I added --force_polling to the `docker-compose.yml` and it fixed this problem. 
+9. revise docker-compose.yml, add `v0.9.0`
 
