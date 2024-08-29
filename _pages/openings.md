@@ -83,7 +83,7 @@ The FURI Initiative is a unique opportunity to get involved in research during y
 [SURI](https://students.engineering.asu.edu/graduate/research/suri/)
 The student will receive **a $5,000 stipend**, housing and some living expenses during the summer each year. Deadline is Feb. 1st. I will  prioritize sudents who have already worked with me or potential PhD students. 
 
-Hourly-payed RA: We will provide hourly-paied positions for students who have been in the lab for a while (>3 months) and perform great. 
+Hourly-paid RA: We will provide hourly-paied positions for students who have been in the lab for a while (>3 months) and perform great. 
 
 ---
 
