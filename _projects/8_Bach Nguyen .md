@@ -4,7 +4,7 @@ title: Bach Nguyen
 title2: 
 description: ME, 
 img: assets/img/headshots/Bach_Nguyen.jpg
-importance: 12
+importance: 8
 category: Undergraduate
 ---
 
