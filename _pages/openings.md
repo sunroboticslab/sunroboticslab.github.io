@@ -14,9 +14,10 @@ We acknowledge that maintaining an __inclusive environment__ requires ongoing an
 
 #### PhD students:
 
-We are looking for highly motivated students to join our lab. 
+We typically have 1-2 PhD opening each year.  (The positions for Fall 2025 are fulfilled.)
 
-##### How to apply:
+
+
 To apply, interested candidates should submit an application to Arizona State University via [https://webapp4.asu.edu/dgsadmissions/](https://webapp4.asu.edu/dgsadmissions/), specifying their interest in working with Dr. Sun. Additionally, they should send an email titled "Prospective Ph.D. Student" or "Prospective Master Student" to jiefeng.sun@asu.edu, attaching their CV and a cover letter before submitting their application.
 
 We usually have several rounds of interviews. Please refer to the [post: student admission process]({% post_url 2023-09-05-student-admission %})
@@ -53,15 +54,12 @@ For more information, see https://barretthonors.asu.edu/academics/thesis-and-cre
 __Topics__\\
 __1. Design of Novel Dielectric Fluid Artificial Muscle__\\
 In this project, you will develop a novel artificial muscle, characterize its performance, and simulate it with physics-based simulators. Preferred skills: knowledge and hands-on experience in materials, mechanical design, and fabrication. 
+<!-- 
+__2. Wearable Robots Driven by Artificial Muscles for Human Assistance and Rehabilitation (with Prof. Hyunglae Lee).__\\
+In this project, you will design a novel artificial muscle and build a wearable robotic device for back support. The preferred skills include hands-on experience in mechatronics (circuits), mechanical design, and fabrication. -->
 
-**2. Real-time Control of Continuum Soft Robots with Learning to Solve Physics-based Models (With Prof. Max Ren). Fullfilled**\\
-In this project, you will develop machine learning methods to solve physics-based models for controlling a continuum soft robotic arm in real time. The preferred skills are machine learning, modern control, and strong coding capability. 
-
-__3. Fast Simulation of Soft Robots with Physics-based simulators.__ \\
-In this project, you will simulate soft robots with physics-based simulators. Students who are from computer science and know numerical solvers and computer graphics (Animation and Simulation) are highly preferred. 
-
-__4. Wearable Robots Driven by Artificial Muscles for Human Assistance and Rehabilitation (with Prof. Hyunglae Lee).__\\
-In this project will design a novel artificial muscle and build a wearable robotic device for back support. The preferred skills include hands-on experience in mechatronics (circuits), mechanical design, and fabrication.
+__2. Fish robot.__\\
+In This project, you will build novel fish robot that can efficiently swim in complex flow. 
 
 
 

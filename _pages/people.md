@@ -6,7 +6,7 @@ description: .
 nav: true
 nav_order: 2
 faculty_category: [Faculty]
-display_categories: [Graduate Students, Undergraduate, Alumni]
+display_categories: [Graduate Students, Undergraduate]
 horizontal: false
 ---
 
@@ -75,3 +75,16 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+
+
+
+
+<!-- Customized code for undergrads 
+<div class="projects"> ==$0
+
+<h2 class="category">Alumni</h2>
+
+##### Undergrad
+
+
+-->
