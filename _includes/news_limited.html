@@ -1,3 +1,5 @@
+          <!-- I created this to be included in the about page, the `news_limit: 5` in _config.yal will change how many news will be included in the about page.
+             -Jiefeng 11/29/2024   -->
           
           <div class="news">
             {% if site.news != blank -%} 
@@ -6,7 +8,7 @@
               <table class="table table-sm table-borderless">
               {%- assign news = site.news | reverse -%}
               {% if site.news_limit %}
-              {% assign news_limit = 10000 %}
+              {% assign news_limit = site.news_limit %}
               {% else %}
               {% assign news_limit = news_size %}
               {% endif %}

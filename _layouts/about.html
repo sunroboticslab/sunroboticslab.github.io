@@ -61,7 +61,8 @@ jQuery(function($) {
           <!-- News -->
           {% if page.news -%}
             <h3><a href="{{ '/news/' | relative_url }}" style="color: inherit;padding-top:5rem">News</a></h2>
-            {%- include news.html %}
+            {%- include news_limited.html %}
+            <h3><a href="{{ '/news/' | relative_url }}" style="color: inherit;padding-top:5rem">More News</a></h2>
           {%- endif %}
 
           <!-- Selected papers -->
