@@ -2,12 +2,13 @@
 layout: page
 title: People
 permalink: /people/
-description: .
 nav: true
 nav_order: 2
 faculty_category: [Faculty]
-display_categories: [Graduate Students, Undergraduate]
+display_categories: [PhD Students, Master Students, Undergraduates]
+alumni_categories: [ Master Students, Undergraduates]
 horizontal: false
+title_ignore: true
 ---
 
 <!-- pages/projects.md -->
@@ -35,7 +36,10 @@ horizontal: false
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
   {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
+      <!-- Further filter projects by status -->
+  {%- assign filtered_projects = categorized_projects | where: "status", "active" -%}
+
+  {%- assign sorted_projects = filtered_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
@@ -52,6 +56,26 @@ horizontal: false
     {%- endfor %}
   </div>
   {%- endif -%}
+  {% endfor %}
+
+<h2 class="category">Alumni</h2>
+
+  <!-- Display Alumni students in grid projects -->
+  {%- for category in page.alumni_categories %}
+
+  <h5 class="category">{{ category }}</h5>
+  {%- assign categorized_projects = site.projects | where: "category", category -%}
+    <!-- Further filter projects by status -->
+  {%- assign filtered_projects = categorized_projects | where: "status", "inactive" -%}
+
+  {%- assign sorted_projects = filtered_projects | sort: "importance" %}
+  <!-- Generate cards for each project -->
+
+  <div class="grid">
+    {%- for project in sorted_projects -%}
+      {% include projects_alumni.html %}
+    {%- endfor %}
+  </div>
   {% endfor %}
 
 {%- else -%}
@@ -82,7 +106,7 @@ horizontal: false
 <!-- Customized code for undergrads 
 <div class="projects"> ==$0
 
-<h2 class="category">Alumni</h2>
+
 
 ##### Undergrad
 

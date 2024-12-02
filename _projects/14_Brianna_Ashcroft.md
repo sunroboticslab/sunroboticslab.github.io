@@ -6,7 +6,8 @@ description: ME
 img: assets/img/headshots/Brianna_Ashcroft.jpg
 
 importance: 14
-category: Undergraduate
+category: Undergraduates
+status: active
 ---
 
 

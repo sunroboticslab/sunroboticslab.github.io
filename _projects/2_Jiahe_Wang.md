@@ -5,7 +5,8 @@ title2:
 description: PhD student, ME, F24
 img: assets/img/headshots/Jiahe_Wang.jpg
 importance: 3
-category: Graduate Students
+category: PhD Students
+status: active
 ---
 
 

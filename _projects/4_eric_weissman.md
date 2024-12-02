@@ -5,7 +5,8 @@ title2:
 description: Master (4+1), ME, MORE
 img: assets/img/headshots/eric_weissman.jpg
 importance: 4
-category: Graduate Students
+category: PhD Students
+status: active
 ---
 
 

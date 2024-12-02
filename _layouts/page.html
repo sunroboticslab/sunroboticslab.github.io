@@ -2,15 +2,19 @@
 layout: default
 ---
 <!-- page.html -->
-        <div class="post">
+<div class="post">
+  {% unless page.title_ignore == true %}
+  <header class="post-header">
+    {% if page.title %}
+      <h3 class="post-title">{{ page.title }}</h3>
+    {% endif %}
+    {% if page.description %}
+      <p class="post-description">{{ page.description }}</p>
+    {% endif %}
+  </header>
+  {% endunless %}
 
-          <header class="post-header">
-            <h3 class="post-title">{{ page.title }}</h3>
-            <p class="post-description">{{ page.description }}</p>
-          </header>
-
-          <article>
-            {{ content }}
-          </article>
-
-        </div>
+  <article>
+    {{ content }}
+  </article>
+</div>

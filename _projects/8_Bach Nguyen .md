@@ -5,7 +5,8 @@ title2:
 description: ME, 
 img: assets/img/headshots/Bach_Nguyen.jpg
 importance: 8
-category: Undergraduate
+category: Undergraduates
+status: active
 ---
 
 
