@@ -95,6 +95,14 @@ slid_img {
     text-align: center;
   }
 
+  .card-title2 {
+    color: var(--global-text-color);
+    margin-top: 0;
+    margin-bottom: 0.25rem;
+    line-height: 1.2;
+    text-align: left;
+  }
+
   .card-text {
     // color: var(--global-text-color);
     // margin-top: 0;
@@ -102,6 +110,11 @@ slid_img {
     // line-height: 1.2;
     text-align: center;
   }
+
+  .text-left {
+    text-align: left !important; /* Overrides center alignment */
+  }
+
   .card-item {
     width: auto;
     margin-bottom: 4px;
@@ -477,6 +490,9 @@ footer.sticky-bottom {
 
     &:hover {
       .card-title {
+        color: var(--global-theme-color);
+      }
+      .card-title2 {
         color: var(--global-theme-color);
       }
     }
