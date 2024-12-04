@@ -174,9 +174,10 @@ collections:
     output: true
     permalink: /people/:path/
 
-news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-news_limit: 10 # leave blank to include all the news in the `_news` folder
-news_nav_title: News # I added this 
+news_scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+news_limit: 1000 # need to set very large all the news in the `_news` folder
+news_limit2: 8 # This is to set the news in the about page. 
+news_nav_title: News # I added this, it is called in header. I removed this part. 
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
