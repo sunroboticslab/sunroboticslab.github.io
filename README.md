@@ -10,4 +10,4 @@
 8. Somehow the auto generation is down. Solution: I added --force_polling to the `docker-compose.yml` and it fixed this problem. 
 9. revise docker-compose.yml, add `v0.9.0`
 10. How to run this website. clone this website, then `run docker compose up`
-
+11. 
