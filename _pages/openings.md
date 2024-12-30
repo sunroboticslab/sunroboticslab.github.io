@@ -30,7 +30,7 @@ We usually have several rounds of interviews. Please refer to the [post: student
 
 ##### Masters Thesis
 
-I am seeking multiple highly motivated Master students or undergrads to conduct theses in artificial muscle and soft robotics, starting in Summer/Fall 2024. 
+I am seeking multiple highly motivated Master students or undergrads to conduct theses in artificial muscle and soft robotics, starting in Summer/Fall 2025. 
 
 To apply, interested candidates should send an email titled "Prospective Master Student for Thesis" to jiefeng.sun@asu.edu, attaching their CV, transcript, and a cover letter. Due to time limitations, Dr. Sun is **not able to** advise Masters Projects at this time. Please consider a Masters Thesis, as the opportunities for producing high-quality, publishable work is enhanced via the thesis route. 
 
