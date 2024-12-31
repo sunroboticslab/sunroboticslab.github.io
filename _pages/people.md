@@ -5,7 +5,7 @@ permalink: /people/
 nav: true
 nav_order: 2
 faculty_category: [Faculty]
-display_categories: [Graduate Students, Undergraduates]
+display_categories: [Graduate Students, Undergraduates, High School Students]
 alumni_categories: [ Master Students, Undergraduates]
 horizontal: false
 title_ignore: true
