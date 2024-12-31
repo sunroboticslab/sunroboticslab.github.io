@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Alex
+title: Akshay Karthik
 title2:  
-description: 2024
+description: Hamilton High School, 2024, SCENE
 img: 
 importance: 8
 category: High School Students
