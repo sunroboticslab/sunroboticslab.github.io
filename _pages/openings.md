@@ -25,42 +25,12 @@ We usually have several rounds of interviews. Please refer to the [post: student
 
 ---
 
-#### Master students:
+#### Master and Undergrad at ASU
 
+I am seeking multiple highly motivated Master students or undergrads to conduct theses.  To apply, interested candidates should fill in this form: [https://forms.gle/RCwqu4wkCjhBUoFL7](https://forms.gle/RCwqu4wkCjhBUoFL7)
 
-##### Masters Thesis
-
-I am seeking multiple highly motivated Master students or undergrads to conduct theses in artificial muscle and soft robotics, starting in Summer/Fall 2025. 
-
-To apply, interested candidates should send an email titled "Prospective Master Student for Thesis" to jiefeng.sun@asu.edu, attaching their CV, transcript, and a cover letter. Due to time limitations, Dr. Sun is **not able to** advise Masters Projects at this time. Please consider a Masters Thesis, as the opportunities for producing high-quality, publishable work is enhanced via the thesis route. 
-
-
-__I am hiring multiple students to work on underwater robot and quarduped robots__
-
-
----
-#### Undergraduate students:
-
-We welcome undergraduate students who are interested in gaining research experience in the areas of robot design, microcontrollers, mechanics, and control. Due to the significant amount of training required, we prefer students who are interested in longer-term (one year or more) research projects.
-ASU undergraduate students are encouraged to email your interest and experience directly to Dr. Sun.
-
-
-##### ___Barrett Honors Thesis___
-Dr. Sun has availability to serve on Barrett Thesis committees, provided the student is willing to commit to submitting their work to a conference or journal at the end of their project.
-
-For more information, see https://barretthonors.asu.edu/academics/thesis-and-creative-project/
-
-
-__Topics__\\
-__1. Design of Novel Dielectric Fluid Artificial Muscle__\\
-In this project, you will develop a novel artificial muscle, characterize its performance, and simulate it with physics-based simulators. Preferred skills: knowledge and hands-on experience in materials, mechanical design, and fabrication. 
-<!-- 
-__2. Wearable Robots Driven by Artificial Muscles for Human Assistance and Rehabilitation (with Prof. Hyunglae Lee).__\\
-In this project, you will design a novel artificial muscle and build a wearable robotic device for back support. The preferred skills include hands-on experience in mechatronics (circuits), mechanical design, and fabrication. -->
-
-__2. Fish robot.__\\
-In This project, you will build novel fish robot that can efficiently swim in complex flow. 
-
+- For master students, we only consider students who are interested in a Masters Thesis.
+- For undergrads, Dr. Sun has availability to serve on Barrett Thesis committees, provided the student is willing to commit to submitting their work to a conference or journal at the end of their project. For more information, see https://barretthonors.asu.edu/academics/thesis-and-creative-project/
 
 
 ---
