@@ -12,7 +12,7 @@ We acknowledge that maintaining an __inclusive environment__ requires ongoing an
 ---
 
 
-#### PhD students:
+#### PhD students
 
 We typically have 1-2 PhD opening each year.  (The positions for Fall 2025 are fulfilled.)
 
@@ -30,14 +30,12 @@ We usually have several rounds of interviews. Please refer to the [post: student
 I am seeking multiple highly motivated Master students or undergrads to conduct theses.  To apply, interested candidates should fill in this form: [https://forms.gle/RCwqu4wkCjhBUoFL7](https://forms.gle/RCwqu4wkCjhBUoFL7)
 
 - For master students, we only consider students who are interested in a Masters Thesis.
-- For undergrads, Dr. Sun has availability to serve on Barrett Thesis committees, provided the student is willing to commit to submitting their work to a conference or journal at the end of their project. For more information, see https://barretthonors.asu.edu/academics/thesis-and-creative-project/
+- For undergrads, we only consider 1) students who plan to go to graduate school (not necessary to be ASU), or 2) Barrett students who will do their [Honor's thesis](https://barretthonors.asu.edu/academics/thesis-and-creative-project/)
 
 
 ---
 
 ##### Funding for Master and Undergrad students
-
-Students who are doing thesis with me will have my full support to get funding from the following programs:
 
 [Hourly-payed grader](https://english.asu.edu/admission/graduate-admission/teaching-assistantships/gradership)
 I am teaching a class every semester. Students who are doing research in my lab usually get the grader position ($15 - $16 per hour). 
