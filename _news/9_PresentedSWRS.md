@@ -5,10 +5,12 @@ inline: true
 ---
 Our lab demonstrated our research at [SWRS 2024](https://swrobotics.engineering.asu.edu/2024speakers/). 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/news/2024/SWRS_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" width="450" %}
+
+<div class="row mt-2">
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/news/2024/SWRS_2024.jpg" title="example image" class="img-fluid rounded z-depth-1" width="450" %}
+        </div>
     </div>
 </div>
-
 

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Eron Ristich 
+title: Phong Nguyen
 title2: 
-description: CS, FURI, SURI
+description: ME, 2024
 img: assets/img/headshots/sundevil.jpg
-importance: 7
+importance: 12
 category: Undergraduates
 status: active
 ---
