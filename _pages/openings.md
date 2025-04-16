@@ -3,7 +3,7 @@ layout: page
 permalink: /Openings/
 title: Openings
 nav: true
-nav_order: 3
+nav_order: 5
 ---
 Welcome!
 
