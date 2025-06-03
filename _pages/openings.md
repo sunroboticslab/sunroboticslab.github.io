@@ -16,8 +16,6 @@ We acknowledge that maintaining an __inclusive environment__ requires ongoing an
 
 We typically have 1-2 PhD opening each year.  (The positions for Fall 2025 are fulfilled.)
 
-
-
 To apply, interested candidates should submit an application to Arizona State University via [https://webapp4.asu.edu/dgsadmissions/](https://webapp4.asu.edu/dgsadmissions/), specifying their interest in working with Dr. Sun. Additionally, they should send an email titled "Prospective Ph.D. Student" or "Prospective Master Student" to jiefeng.sun@asu.edu, attaching their CV and a cover letter before submitting their application.
 
 We usually have several rounds of interviews. Please refer to the [post: student admission process]({% post_url 2023-09-05-student-admission %})
@@ -56,13 +54,6 @@ Hourly-paid RA: We will provide hourly-paied positions for students who have bee
 
 
 #### Q & A
-
-__What is the advising style?__
-At Sun Robotics Lab, we are dedicated to nurturing creativity, promoting collaboration, and achieving academic excellence among our students. We strongly encourage collaboration among group members and with external teams.
-Each group member will have regular discussions with the PI regarding their research ideas and progress. We will assign an independent project/task to each incoming student. As students gain expertise in the field, we expect them to identify new and exciting research directions and lead their own projects.
-We will have a weekly group meeting to discuss research ideas and literature studies, and we will also set up a weekly or biweekly meeting with each group member to discuss their progress and provide individual support.
-
-
 
  __I am a K-12 student/teacher__ and would like information for a school report, tour, help with my robotics team, a research internship, etc. My students and I are very excited about using robotics as a teaching tool to encourage interest in Science, Technology, Engineering, and Math (STEM) topics. We actively involved in outreach and are have an outreach webpage to answer your questions.
 

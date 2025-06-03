@@ -3,56 +3,26 @@ layout: page
 permalink: /alumni/
 title: Alumni
 nav: false
-faculty_category: [Faculty]
-display_categories: [Graduate Students, Undergraduates, High School Students]
-alumni_categories: [ Master Students, Undergraduates]
 horizontal: false
 title_ignore: true
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
 
-  
-  <!-- Display students in grid projects -->
-  {%- for category in page.alumni_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-      <!-- Further filter projects by status -->
-  {%- assign filtered_projects = categorized_projects | where: "status", "inactive" -%}
-
-  {%- assign sorted_projects = filtered_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-1">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
-
-{%- endif -%}
-</div>
+ <h2 class="category"> Master Students </h2>
+----------------------
+ - Kyle Welsh, 2024
+ - Siva Surya Venkat Busi, 2024, now at Matic Robots
 
 
 
+ <h2 class="category"> Undergrade </h2>
+ -------------------
+- Jacob Brannon, 2024
+- Baotao Gong, 2024
+- Erin Kispert, 2024
+- Dhruv Mantri, 2024
+- Brianna Ashcroft, 2024
+- Sriman Rajamani, 2024, FURI
+- Cindy Furukawa, 2024-2024, FURI, Honor's thesis, not at Applied Materials 
+- Phong Nguyen, 2024 - 2025
 
-<!-- Customized code for undergrads 
-<div class="projects"> ==$0
-
-
-
-##### Undergrad
-
-
--->
