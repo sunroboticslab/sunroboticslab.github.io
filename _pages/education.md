@@ -19,8 +19,28 @@ Dynamics of physical systems, models of mechanical, electrical and electromechan
 **MAE 494/598: Soft Robotics**
 - Spring 2025 (enrolled 28)
 
+<div class="row mt-2">
+    <div class="col-sm mt-3 mt-md-0">
+       {% include youtube.html id="LaBAqk1H--I" max_width="600px" title="Sp2025 final project" %}
+    </div>
+</div>
+
+
+
 
 
 ----------
 #### Outreach
+
+**Open Door**
+ - Open Door 2025
+<div class="row mt-2">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        {% include figure.html path="assets/img/education/OpenDoor_2025.jpg" title="Open Door 2025" class="img-fluid rounded z-depth-1" width="550" %}
+    </div>
+</div>
+
+
+**K-12 outreach at Summer Engineering Explore**
+
 
