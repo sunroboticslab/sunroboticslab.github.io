@@ -11,6 +11,8 @@ nav_order: 64
 ---
 <!-- _pages/publications.md -->
 
+ [Google Scholar](https://scholar.google.com/citations?user=fjUoHOsAAAAJ&hl=en)
+
 <div class="publications">
 
 {%- for y in page.j_years %}
