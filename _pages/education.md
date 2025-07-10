@@ -64,7 +64,7 @@ Dynamics of physical systems, models of mechanical, electrical and electromechan
 
 <div class="row mt-2">
     <div class="col-sm mt-3 mt-md-0">
-       {% include youtube.html id="l0m6TXPt8iFA5lgU" max_width="600px" title="Sp2025 final project" %}
+       {% include youtube.html id="a2VRML0010s" max_width="550px" title="Sp2025 final project" %}
     </div>
 </div>
 
