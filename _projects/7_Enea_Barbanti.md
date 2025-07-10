@@ -4,7 +4,7 @@ title: Enea Barbanti
 title2: 
 description: ME, FURI, 2025
 img: assets/img/headshots/sundevil.jpg
-importance: 13
+importance: 2
 category: Undergraduates
 status: active
 ---
