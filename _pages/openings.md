@@ -3,7 +3,7 @@ layout: page
 permalink: /Openings/
 title: Openings
 nav: true
-nav_order: 5
+nav_order: 7
 ---
 <!-- Welcome!
 
@@ -14,11 +14,11 @@ We acknowledge that maintaining an __inclusive environment__ requires ongoing an
 
 #### PhD students
 
-We typically have 1-2 PhD opening each year.  (The positions for Fall 2025 are fulfilled.)
+We typically have 1-2 PhD opening each year.  [1 PhD opening 2026 Fall]({% post_url 2025-08-31-opening %})
 
-To apply, interested candidates should submit an application to Arizona State University via [https://webapp4.asu.edu/dgsadmissions/](https://webapp4.asu.edu/dgsadmissions/), specifying their interest in working with Dr. Sun. Additionally, they should send an email titled "Prospective Ph.D. Student" or "Prospective Master Student" to jiefeng.sun@asu.edu, attaching their CV and a cover letter before submitting their application.
+To apply, interested candidates should submit an application to Arizona State University via [https://webapp4.asu.edu/dgsadmissions/](https://webapp4.asu.edu/dgsadmissions/), specifying their interest in working with Dr. Sun. Additionally, they should send an email titled "Prospective Ph.D. Student" to jiefeng.sun@asu.edu, attaching their CV and a cover letter before submitting their application.
 
-We usually have several rounds of interviews. Please refer to the [post: student admission process]({% post_url 2023-09-05-student-admission %})
+We usually have several rounds of interviews. Please refer to the [student admission process]({% post_url 2023-09-05-student-admission %})
 
 
 ---
