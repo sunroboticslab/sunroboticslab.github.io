@@ -13,5 +13,6 @@ nav_order: 8
  
 
 #### Guest Editor for Special Issues 
--  ["Special issue on Shape Morphing Robots"]({% post_url 2024-04-24-Shape-morphing-special-issue %}) in Advanced Intelligent Systems 
+-  "Special issue on Shape Morphing Robots" in Advanced Intelligent Systems [[Website]]({% post_url 2024-04-24-Shape-morphing-special-issue %}) 
+-  "Special issue on Amphibious Robots" in Advanced Robotic Research [[Website]]({% post_url 2025-09-11-amphibious-robots-special-issue %}) 
 
