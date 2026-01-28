@@ -17,7 +17,7 @@ title_ignore: true
 
  <h2 class="category"> Undergrade </h2>
  -------------------
-
+- [Bach The Nguyen](https://www.linkedin.com/in/bach-the-nguyen-18403839b/), 2024 - 2025, FURI
 - [Eron Ristich](https://eron.ristich.com/), 2024 - 2025, CS, FURI, SURI, now PhD student at University of Michigan
 - Phong Nguyen, 2024 - 2025
 - [Cindy Furukawa](https://www.linkedin.com/in/cindyfurukawa/), 2024-2025, FURI, Honor's thesis, now at Applied Materials 

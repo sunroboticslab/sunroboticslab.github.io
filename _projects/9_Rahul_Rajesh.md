@@ -2,9 +2,9 @@
 layout: page
 title: Rahul Rajesh
 title2: 
-description: CS 
+description: CS, FURI
 img: assets/img/headshots/Rahul_Rajesh.jpg
-importance: 5
+importance: 3
 category: Undergraduates
 status: active
 ---
