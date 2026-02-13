@@ -111,6 +111,25 @@ slid_img {
     text-align: center;
   }
 
+  /* UPDATED for extra-info */
+  .extra-info {
+    font-style: normal;       
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+    text-align: left;
+    color: var(--global-text-color); 
+  }
+
+  .extra-info a {
+    color: var(--global-theme-color);
+    text-decoration: underline;
+
+    &:hover {
+      color: var(--global-hover-color);
+    }
+  }
+  /* UPDATED */
+
   .text-left {
     text-align: left !important; /* Overrides center alignment */
   }

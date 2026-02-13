@@ -25,7 +25,7 @@ title_ignore: true
   <div class="container">
     <div class="row row-cols-1">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+      {% include people_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
@@ -45,14 +45,14 @@ title_ignore: true
   <div class="container">
     <div class="row row-cols-1">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+      {% include people_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
-      {% include projects.html %}
+      {% include people_card.html %} <!--UPDATED: projects.html to people_card.html-->
     {%- endfor %}
   </div>
   {%- endif -%}
