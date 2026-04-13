@@ -14,7 +14,7 @@ We acknowledge that maintaining an __inclusive environment__ requires ongoing an
 
 #### PhD students
 
-We typically have 1-2 PhD opening each year.  [1 PhD opening 2026 Fall]({% post_url 2025-08-31-opening %})
+We typically have 1-2 PhD opening each year.  The 2026 Fall position has been fulfilled. Interested applicants for Fall 2027, please reach out to me after Oct, 2026. We will start our first round review and interview during Dec, 2027. 
 
 To apply, interested candidates should submit an application to Arizona State University via [https://webapp4.asu.edu/dgsadmissions/](https://webapp4.asu.edu/dgsadmissions/), specifying their interest in working with Dr. Sun. Additionally, they should send an email titled "Prospective Ph.D. Student" to jiefeng.sun@asu.edu, attaching their CV and a cover letter before submitting their application.
 

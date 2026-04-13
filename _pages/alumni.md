@@ -31,6 +31,12 @@ title_ignore: true
 
 
 
+ <h2 class="category"> High school students </h2>
+ -------------------
+
+- Alex Huang (Hamilton High School, SCENE) 2024, 
+- Akshay Karthik (Hamilton High School, SCENE) 2024.
+
 
 
 
