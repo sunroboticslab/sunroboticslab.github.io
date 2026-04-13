@@ -10,7 +10,7 @@ nav_order: 5
 
 **MAE 318: System Dynamics and Control I**
 
-- Spring 2024 (enrolled 74),  Fall 2024 (enrolled 90) | 
+- Spring 2024 (enrolled 74),  Fall 2024 (enrolled 90) , Fall 2025 (enrolled 90), Spring 2026 (enrolled 126)
 
 Dynamics of physical systems, models of mechanical, electrical and electromechanical systems, Laplace transform, transfer functions, time response and frequency response, poles and zeros, block diagrams, stability, introduction to feedback control: closed-loop response, PID compensation, steady-state characteristics, root-locus design and analysis of systems, frequency-domain design concepts, Bode-plots and analysis of systems.
 
@@ -23,6 +23,11 @@ Dynamics of physical systems, models of mechanical, electrical and electromechan
        {% include youtube.html id="LaBAqk1H--I" max_width="600px" title="Sp2025 final project" %}
     </div>
 </div>
+
+
+
+**MAE 417: System Dynamics and Control II**
+- Fall 2026 
 
 
 ----------
