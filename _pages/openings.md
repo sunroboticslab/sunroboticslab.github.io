@@ -31,6 +31,13 @@ I am seeking multiple highly motivated Master students or undergrads to conduct 
 - For undergrads, we only consider 1) students who plan to go to graduate school (not necessary to be ASU), or 2) Barrett students who will do their [Honor's thesis](https://barretthonors.asu.edu/academics/thesis-and-creative-project/)
 
 
+<div class="row mt-2">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        {% include figure.html path="assets/img/join/roadmap_undergrad.png" title="ASU news" class="img-fluid rounded z-depth-1" width="700" %}
+    </div>
+</div>
+
+
 ---
 
 ##### Funding for Master and Undergrad students

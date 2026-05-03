@@ -14,6 +14,14 @@ nav_order: 5
 
 Dynamics of physical systems, models of mechanical, electrical and electromechanical systems, Laplace transform, transfer functions, time response and frequency response, poles and zeros, block diagrams, stability, introduction to feedback control: closed-loop response, PID compensation, steady-state characteristics, root-locus design and analysis of systems, frequency-domain design concepts, Bode-plots and analysis of systems.
 
+<div class="row mt-2">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        {% include figure.html path="assets/img/education/classes/MAE318_Sp2026.jpg" title="Open Door 2025" class="img-fluid rounded z-depth-1" width="600" %}
+    </div>
+</div>
+
+
+
 
 **MAE 494/598: Soft Robotics**
 - Spring 2025 (enrolled 28)
