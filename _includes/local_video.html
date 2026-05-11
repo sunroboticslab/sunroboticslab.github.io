@@ -1,0 +1,26 @@
+<div style="display:flex; justify-content:center; margin:20px 0;">
+
+  <video
+  {% if include.autoplay %}autoplay{% endif %}
+  {% if include.loop %}loop{% endif %}
+  {% if include.muted %}muted{% endif %}
+  {% if include.controls %}controls{% endif %}
+  {% if include.disablepip %}disablepictureinpicture{% endif %}
+
+  playsinline
+  preload="{{ include.preload | default: 'metadata' }}"
+
+  class="{{ include.class }}"
+
+  style="
+    max-width: {{ include.max_width | default: '100%' }};
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+  "
+  >
+    <source src="/assets/videos/{{ include.file }}" type="video/mp4">
+  </video>
+
+</div>
