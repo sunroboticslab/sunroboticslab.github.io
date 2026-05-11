@@ -26,7 +26,11 @@ We focus on not only design novel and useful artificial muscles, but also study 
   </div>
 
   <div style="flex: 1;">
-    {% include youtube.html id="fIU39fBoaMc" max_width="425px" title="Sp2025 final project" %}
+    <!--{% include youtube.html id="fIU39fBoaMc" max_width="425px" title="Sp2025 final project" %}-->
+    {% include local_video.html
+      file="artificial-muscle-v1.mp4"
+      max_width="425px" controls=true disablepip=true
+    %}
   </div>
 </div>
 

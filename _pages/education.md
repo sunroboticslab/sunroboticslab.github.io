@@ -28,7 +28,8 @@ Dynamics of physical systems, models of mechanical, electrical and electromechan
 
 <div class="row mt-2">
     <div class="col-sm mt-3 mt-md-0">
-       {% include youtube.html id="LaBAqk1H--I" max_width="600px" title="Sp2025 final project" %}
+       <!--{% include youtube.html id="LaBAqk1H--I" max_width="600px" title="Sp2025 final project" %}-->
+       {% include local_video.html max_width="600px" file="education-v1.mp4" controls=true disablepip=true%}
     </div>
 </div>
 
@@ -77,7 +78,8 @@ Dynamics of physical systems, models of mechanical, electrical and electromechan
 
 <div class="row mt-2">
     <div class="col-sm mt-3 mt-md-0">
-       {% include youtube.html id="a2VRML0010s" max_width="550px" title="Sp2025 final project" %}
+       <!--{% include youtube.html id="a2VRML0010s" max_width="550px" title="Sp2025 final project" %}-->
+       {% include local_video.html max_width="550px" file="education-v2.mp4" controls=true disablepip=true %}
     </div>
 </div>
 
