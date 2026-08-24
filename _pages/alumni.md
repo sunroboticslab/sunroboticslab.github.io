@@ -17,6 +17,7 @@ title_ignore: true
 
  <h2 class="category"> Undergrade </h2>
  -------------------
+- Enea Barbanti, 1/2025 - 5/2026, FURI, Finalist of Outstanding Graduate in Mechanical Engineering
 - Celina Tram, 6/2025-3/2026
 - [Bach The Nguyen](https://www.linkedin.com/in/bach-the-nguyen-18403839b/), 2024 - 2025, FURI
 - [Eron Ristich](https://eron.ristich.com/), 2024 - 2025, CS, FURI, SURI, now PhD student at University of Michigan
