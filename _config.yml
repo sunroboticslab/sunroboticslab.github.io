@@ -176,6 +176,7 @@ collections:
     permalink: /people/:path/
   facilities:
     output: true
+    permalink: /facility/:path/
 
 news_scrollable: false # adds a vertical scroll bar if there are more than 3 news items
 news_limit: 1000 # need to set very large all the news in the `_news` folder
