@@ -4,11 +4,11 @@ title: 5 Segment Robot
 permalink: /facility/5-segment-robot/
 category: Robots and Devices
 importance: 1
-image: /assets/img/facilities/5-segment-robot.png
+image: /assets/img/facilities/Jiahe-5-segment-robot.png
 description: A modular cable-driven soft robotic arm for studying multi-segment actuation, shape sensing, modeling, and control.
 ---
 
-<img class="facility-main-image" src="/assets/img/facilities/5-segment-robot.png" alt="5 segment robot">
+<img class="facility-main-image" src="/assets/img/facilities/Jiahe-5-segment-robot.png" alt="5 segment robot">
 
 This modular cable-driven soft robotic arm consists of three compliant segments with motors mounted directly at the base of each segment, enabling independent and scalable multi-segment actuation. The platform combines a flexible NiTi backbone, 3D-printed lattice bellows, and antagonistic cable actuation for studying real-time full-body shape sensing, modeling, and control of continuum robots.
 

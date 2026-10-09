@@ -4,11 +4,11 @@ title: 3 Segment Robot
 permalink: /facility/3-segment-robot/
 category: Robots and Devices
 importance: 2
-image: /assets/img/facilities/3-segment-robot.png
+image: /assets/img/facilities/Jiahe%26Sultan-3-segment-robot.png
 description: A slender tendon-driven continuum robot with embedded IMUs for proprioceptive shape estimation and closed-loop control.
 ---
 
-<img class="facility-main-image" src="/assets/img/facilities/3-segment-robot.png" alt="3 segment robot">
+<img class="facility-main-image" src="/assets/img/facilities/Jiahe%26Sultan-3-segment-robot.png" alt="3 segment robot">
 
 This three-segment tendon-driven continuum robot features a slender 20 mm-diameter body with a total length of 516 mm. The platform integrates embedded IMUs, tendon actuation, and high-rate motor feedback to support research in proprioceptive shape estimation and closed-loop control of continuum robots.
 

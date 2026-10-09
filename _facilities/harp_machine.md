@@ -10,18 +10,20 @@ description: An open-source fabrication platform for helical anisotropic reinfor
 
 <img class="facility-main-image" src="/assets/img/facilities/harp_machine.jpg" alt="HARP machine">
 
-This machine helps automate the fabrication of HARPs (helical anisotropic reinforced polymer actuators), from our 2026 PNAS publication [Versatile artificial muscles by decoupling anisotropy](https://www.pnas.org/doi/10.1073/pnas.2529273123#sec-3). The platform allows HARPs to be fabricated in as little as 15 minutes while minimizing variability between muscles and reducing operator skill requirements. The entire fabrication machine has been open-sourced, including the CAD files, software, GUI, and a detailed build and usage guide available [here](https://github.com/sunroboticslab/HARP/tree/main/Open%20Sourced%20Fabrication%20Platform).
+This machine helps automate the fabrication of helical anisotropic reinforced polymer actuators (HARPs), based on the lab's work on versatile artificial muscles by decoupling anisotropy. The platform enables HARPs to be fabricated in as little as 15 minutes while minimizing variability between muscles and reducing operator skill requirements.
 
 ## Highlights
 
 - Semi-autonomous fabrication platform for HARPs, enabling fabrication in as little as 15 minutes.
-- Enables fabrication of HARPs from diverse tube materials, geometries, core materials, and reinforcement parameters.
-- Includes a custom easy-to-use GUI and a detailed build and user guide.
-- Total platform costs $565 and can be fabricated in as little as 1 day.
+- Supports HARPs made from diverse tube materials, geometries, core materials, and reinforcement parameters.
+- Includes a custom easy-to-use GUI and detailed build and user documentation.
+- The open-source platform costs approximately $565 and can be fabricated in as little as 1 day.
 
 ## Related Links
 
 - [Fabrication video](https://www.youtube.com/watch?v=hU8dKZnUNMI&t=152s)
+- [Open-source fabrication platform](https://github.com/sunroboticslab/HARP/tree/main/Open%20Sourced%20Fabrication%20Platform)
+- [Related publication](https://www.pnas.org/doi/10.1073/pnas.2529273123#sec-3)
 
 <style>
 .facility-main-image {
