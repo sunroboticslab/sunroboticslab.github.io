@@ -22,13 +22,13 @@ The Instron 68SC-1 is a 1 kN single-column universal testing system used for mec
 <style>
 .facility-main-image {
   width: 100%;
-  max-width: 640px;
-  max-height: 420px;
+  <!--max-width: 640px;
+  max-height: 420px;-->
   height: auto;
   object-fit: contain;
   border-radius: 6px;
   display: block;
   margin: 0 0 1rem 0;
-  background: #f8f8f8;
+  background: #ffffff;
 }
 </style>

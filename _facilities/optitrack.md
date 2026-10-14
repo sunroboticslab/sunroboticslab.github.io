@@ -18,6 +18,9 @@ The OptiTrack motion capture system provides real-time tracking of robot positio
 - Configurable acquisition rates of 25, 50, and 100 Hz support experiments with different workspace, tracking, and real-time control requirements.
 - Five cameras are mounted on heavy-duty stands, while three tripod-mounted cameras provide flexible placement and workspace coverage.
 - Used throughout the lab for robot pose and shape measurement, controller evaluation, system identification, and ground-truth data collection.
+- Current configuration: 8 cameras + 2 camera hubs
+  - Maximum supported configuration with the current hubs: 10 cameras
+  - Mounting: 5 heavy-duty stands + 3 tripods
 
 ## Related Links
 
@@ -26,13 +29,13 @@ The OptiTrack motion capture system provides real-time tracking of robot positio
 <style>
 .facility-main-image {
   width: 100%;
-  max-width: 640px;
-  max-height: 420px;
+  <!--max-width: 640px;
+  max-height: 420px;-->
   height: auto;
   object-fit: contain;
   border-radius: 6px;
   display: block;
   margin: 0 0 1rem 0;
-  background: #f8f8f8;
+  background: #ffffff;
 }
 </style>

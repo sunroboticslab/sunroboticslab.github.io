@@ -12,23 +12,28 @@ description: An automated fabrication platform for producing twisted and coiled 
 
 This machine manufactures twisted and coiled actuators (TCAs), enabling a versatile automated system for producing high-quality actuators with precise control over critical manufacturing parameters. The platform improves the consistency, efficiency, and scalability of TCA production for advanced applications in soft robotics, minimizing defects and enabling longer, more reliable actuators.
 
+<img class="facility-main-image" src="/assets/img/facilities/tca_machine_2.jpg" alt="TCA machine 2">
+
 ## Highlights
 
 - Automated fabrication of TCAs with precise control over key manufacturing parameters.
 - Produces high-quality actuators with improved consistency and low variability.
 - Supports scalable fabrication of longer and more reliable actuators for soft robotics research.
-- Fully open-source build and user guides are available through the detailed TCA machine site.
+- Fully open-source build and user guides are available [here](https://sites.google.com/view/sun-labs-tca-manufacturing/machine-construction).
+
+## Related Links
+- [TCA Automated Manufacturing](https://sites.google.com/view/sun-labs-tca-manufacturing/home)
 
 <style>
 .facility-main-image {
   width: 100%;
-  max-width: 640px;
-  max-height: 420px;
+  <!--max-width: 640px;
+  max-height: 420px;-->
   height: auto;
   object-fit: contain;
   border-radius: 6px;
   display: block;
   margin: 0 0 1rem 0;
-  background: #f8f8f8;
+  background: #ffffff;
 }
 </style>
