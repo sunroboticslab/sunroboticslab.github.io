@@ -52,7 +52,7 @@ Our lab develops and uses robotic systems, customized devices, and shared equipm
   width: 100%;
   height: 180px;
   object-fit: contain;
-  background: #f8f8f8;
+  background: #ffffff;
   border-radius: 6px;
   margin-bottom: 0.75rem;
   display: block;
