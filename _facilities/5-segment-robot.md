@@ -12,6 +12,11 @@ description: A modular cable-driven soft robotic arm for studying multi-segment 
 
 This modular cable-driven soft robotic arm consists of three compliant segments with motors mounted directly at the base of each segment, enabling independent and scalable multi-segment actuation. The platform combines a flexible NiTi backbone, 3D-printed lattice bellows, and antagonistic cable actuation for studying real-time full-body shape sensing, modeling, and control of continuum robots.
 
+{% include local_video.html
+      file="facilities/5-segment-robot.mp4"
+      max_width="600px" controls=true disablepip=true
+    %}
+
 ## Highlights
 
 - Three independently actuated soft segments, each approximately 0.2 m long and weighing 0.5 kg, driven by two Dynamixel motors with antagonistic cables.
