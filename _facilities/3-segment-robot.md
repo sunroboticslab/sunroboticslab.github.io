@@ -11,6 +11,10 @@ description: A slender tendon-driven continuum robot with embedded IMUs for prop
 <img class="facility-main-image" src="/assets/img/facilities/Jiahe%26Sultan-3-segment-robot.png" alt="3 segment robot">
 
 This three-segment tendon-driven continuum robot features a slender 20 mm-diameter body with a total length of 516 mm. The platform integrates embedded IMUs, tendon actuation, and high-rate motor feedback to support research in proprioceptive shape estimation and closed-loop control of continuum robots.
+{% include local_video.html
+      file="facilities/3-segment-robot.mp4"
+      max_width="600px" controls=true disablepip=true
+    %}
 
 ## Highlights
 
